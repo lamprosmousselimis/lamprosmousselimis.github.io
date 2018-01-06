@@ -3,7 +3,7 @@ title: Markdown Cheatsheet
 updated: 2018-01-06 17:25
 ---
 
-**NOTE:** That markdown cheatsheet is a typography demo for this theme. Check out this post to learn more about this markdown usage when you want to get started with this theme. Enjoy!
+**NOTE:** This markdown cheatsheet is a typography demo for this theme. Check out this post to learn more about this markdown usage when you want to get started with this theme. Enjoy!
 
 ## Typography Elements in One
 
