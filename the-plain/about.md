@@ -3,15 +3,12 @@ layout: page
 title: About me
 ---
 
-### Lampros Mousselimis
+
+## Lampros Mousselimis
 Hi! I am a **Software Engineer**. I model things using **Python**. I also like **algorithms**.
 
-lampros dot mousselimis at gmail.com
 
-https://www.linkedin.com/in/lamprosmousselimis/
-
-
-## Experience
+### Experience
 
 **CEO @ BigO Technologies LLC**
 
@@ -24,7 +21,7 @@ _Jun 2014 - Present_
 
 
 
-## Education
+### Education
 
 **National Technical University of Athens (ECE)**
 
