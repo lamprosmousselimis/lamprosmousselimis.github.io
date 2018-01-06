@@ -6,9 +6,9 @@ title: About me
 ### Lampros Mousselimis
 Hi! I am a **Software Engineer**. I model things using **Python**. I also like **algorithms**.
 
-_email    :_ lampros dot mousselimis at gmail.com
+lampros dot mousselimis at gmail.com
 
-_linkedin :_ https://www.linkedin.com/in/lamprosmousselimis/
+https://www.linkedin.com/in/lamprosmousselimis/
 
 
 ## Experience
