@@ -3,8 +3,7 @@ layout: page
 title: About me
 ---
 
-
-## Lampros Mousselimis
+### Lampros Mousselimis
 Hi! I am a **Software Engineer**. I model things using **Python**. I also like **algorithms**.
 
 
