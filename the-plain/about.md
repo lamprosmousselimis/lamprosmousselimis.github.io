@@ -3,8 +3,31 @@ layout: page
 title: About
 ---
 
-Hello.
+####Lampros Mousselimis
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+_email     :_ lampros [dot] mousselimis [at] gmail.com
 
-**Less is more..**
+_linkedin :_ https://www.linkedin.com/in/lamprosmousselimis/
+
+
+
+I am a **Software Engineer**. I model things using **Python**. I also like **algorithms**.
+
+
+
+#### Experience
+
+CEO @ Big[O] Technologies LLC
+
+Jan 2017 - Present
+
+
+
+CEO @ Simple New Ideas P.C.
+
+_Jun 2014 - Present_
+
+
+
+####Education
+
