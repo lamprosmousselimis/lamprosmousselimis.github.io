@@ -3,17 +3,17 @@ layout: page
 title: About me
 ---
 
-## Lampros Mousselimis
+### Lampros Mousselimis
 Hi! I am a **Software Engineer**. I model things using **Python**. I also like **algorithms**.
 
-_email    :_ lampros (dot) mousselimis (at) gmail.com
+_email    :_ lampros dot mousselimis at gmail.com
 
 _linkedin :_ https://www.linkedin.com/in/lamprosmousselimis/
 
 
 ## Experience
 
-**CEO @ Big[O] Technologies LLC**
+**CEO @ BigO Technologies LLC**
 
 _Jan 2017 - Present_
 
