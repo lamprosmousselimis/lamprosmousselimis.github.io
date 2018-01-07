@@ -4,6 +4,8 @@ title:              "random thoughts"
 description:        "Don't count the days.Make the days count."
 google_verify:       # Put your Google Verification here
 google_analytics:   UA-111993556-1 # Put your Google Analytics code
+sass:
+    sass_dir: ./_sass
 
 # Author Info
 author_name:        "Lampros Mousselimis" # Your name here
