@@ -1,4 +1,5 @@
 # Site Info
+remote_theme:       the-plain
 title:              "random thoughts"
 description:        "Don't count the days.Make the days count."
 google_verify:       # Put your Google Verification here
@@ -22,9 +23,9 @@ mathjax:            true  # enables support for mathjax - set to false to disabl
 highlighter:        rouge
 markdown:           kramdown
 kramdown:
-    input:          GFM
+input:              GFM
 sass:
-    style:          :compressed
+style:              :compressed
 
 # Other Params
 include:            [ "robots.txt" ]
