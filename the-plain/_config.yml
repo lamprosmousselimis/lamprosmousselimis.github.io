@@ -1,5 +1,5 @@
 # Site Info
-remote_theme:       the-plain
+# remote_theme:       "the-plain"
 title:              "random thoughts"
 description:        "Don't count the days.Make the days count."
 google_verify:       # Put your Google Verification here
