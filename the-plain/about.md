@@ -4,7 +4,7 @@ title: About
 ---
 
 ### Lampros Mousselimis
-Hi! I am a **Software Engineer**. I model things using **Python**. I also like **algorithms**.
+Hi! I am a **Software Engineer**. I model things using **Python**, mostly **networks**. I also like **algorithms**.
 
 
 ### Experience
