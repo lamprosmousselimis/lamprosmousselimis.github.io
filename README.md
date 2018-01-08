@@ -5,7 +5,7 @@ random thoughts on networks, simulations, algorithms & python.
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](../../hacker/another-page).
+[Link to another page](../../hacker/another-page.md).
 
 [Link to another page](/hacker/another-page).
 
