@@ -1,9 +1,9 @@
 # Site Info
+theme: jekyll-theme-hacker
 title: lampros mousselimis
 description: random thoughts on algorithms, simulations, networks & python.
 show_downloads: true
 google_analytics: UA-111993556-1
-theme: jekyll-theme-hacker
 
 # Site Settings
 url:                https://lamprosmousselimis.github.io # main url
