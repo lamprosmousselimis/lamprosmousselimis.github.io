@@ -14,7 +14,7 @@ github_username:    lamprosmousselimis # Your GitHub username here
 
 # Site Settings
 url:                https://lamprosmousselimis.github.io # main url
-baseurl:            /the-plain/_site/ # for gh-pages
+baseurl:            /the-plain/ # for gh-pages
 permalink:          /notes/:title # Post permalink
 timezone:           Europe/Athens # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
