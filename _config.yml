@@ -1,1 +1,13 @@
+# Site Info
 theme: jekyll-theme-hacker
+title: lampros mousselimis
+description: random thoughts on algorithms, simulations, networks & python.
+show_downloads: true
+google_analytics: UA-111993556-1
+
+# Site Settings
+url:                https://lamprosmousselimis.github.io # main url
+baseurl:            /hacker # for gh-pages
+permalink:          /notes/:title # Post permalink
+timezone:           Europe/Athens # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to false to disable
