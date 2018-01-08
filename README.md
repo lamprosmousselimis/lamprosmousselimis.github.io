@@ -1,2 +1,2 @@
-# lamprosmousselimis.github.io
-[ date | md5sum ] thoughts
+#### Lampros Mousselimis
+random thoughts on **networks**, **simulations**, **algorithms** & **python**.
